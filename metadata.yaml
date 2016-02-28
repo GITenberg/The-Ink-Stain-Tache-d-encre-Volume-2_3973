@@ -1,0 +1,24 @@
+_repo: The-Ink-Stain-Tache-d-encre-Volume-2_3973
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+title: The Ink-Stain (Tache d'encre) — Volume 2
+url: http://www.gutenberg.org/ebooks/3973
